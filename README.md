@@ -1,8 +1,15 @@
-[![CodeGuide](/codeguide-backdrop.svg)](https://codeguide.dev)
+<div align="center">
+  <a href="https://github.com/alcademyorg">
+    <img src="public/alcademy-logo.png" alt="Alcademy Logo" width="200">
+  </a>
 
-# CodeGuide Vite + Supabase Starter
+  <h1>Alcademy Vite + Firebase Starter</h1>
 
-A modern web application starter template built with Vite and React, featuring a beautiful UI and Supabase integration.
+  <p>
+    A modern web application starter template built with Vite and React, featuring a beautiful UI and Firebase integration.
+  </p>
+</div>
+<br>
 
 ## Tech Stack
 
