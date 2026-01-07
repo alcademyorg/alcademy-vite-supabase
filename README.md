@@ -28,7 +28,7 @@ Before you begin, ensure you have the following:
 
 - Node.js 18+ installed
 - A [Supabase](https://supabase.com/) account for database
-- Generated project documents from [CodeGuide](https://codeguide.dev/) for best development experience
+- Generated project documents from [AlcademyDev](https://github.com/alcademyorg/alcademy-vite-supabase) for best development experience
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone <repository-url>
-   cd codeguide-vite-supabase
+   cd alcademy-vite-supabase
    ```
 
 2. **Install dependencies**
@@ -102,7 +102,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 ## Project Structure
 
 ```
-codeguide-vite-supabase/
+alcademy-vite-supabase/
 ├── src/                # Source files
 │   ├── components/    # React components
 │   ├── lib/          # Utility functions
