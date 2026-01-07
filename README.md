@@ -3,10 +3,10 @@
     <img src="public/alcademy-logo.png" alt="Alcademy Logo" width="200">
   </a>
 
-  <h1>Alcademy Vite + Firebase Starter</h1>
+  <h1>Alcademy Vite + Supabase Starter</h1>
 
   <p>
-    A modern web application starter template built with Vite and React, featuring a beautiful UI and Firebase integration.
+    A modern web application starter template built with Vite and React, featuring a beautiful UI and Supabase integration.
   </p>
 </div>
 <br>
